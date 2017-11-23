@@ -6,4 +6,4 @@
 <p><strong>./compressr 'path/of/folder/that/holds/images'</strong></p>
 <p>This script compresses jpg files, if you have other extensions, just replace it with '.jpg' on 9th of line.</p>
 <p>That is it. Enjoy using this script and have fun ;)</p>
-<p><strong>The script replaces images with the old ones, so before you run this script, backup your images!!!</strong></p>
+<p><strong>The script replaces images with the new compressed ones, so before you run this script, backup your images!!!</strong></p>
